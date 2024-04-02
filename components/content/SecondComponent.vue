@@ -6,12 +6,3 @@
         </div>
     </div>
 </template>
-
-<script lang="ts" setup>
-defineProps({
-    imgWidth: {
-        type: [String, Number],
-        default: undefined,
-    },
-});
-</script>
